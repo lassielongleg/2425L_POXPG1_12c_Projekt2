@@ -1333,6 +1333,7 @@ MonoBehaviour:
   jumpForce: 300
   rb: {fileID: 0}
   groundChecker: {fileID: 1167381673}
+  health: {fileID: 0}
 --- !u!114 &2124460222
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1359,6 +1360,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 100
   health: 100
+  isDead: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
