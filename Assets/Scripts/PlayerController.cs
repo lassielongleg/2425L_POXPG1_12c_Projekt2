@@ -8,14 +8,19 @@ public class PlayerController : MonoBehaviour
     public float runSpeed = 7;
     public float jumpForce = 300;
     public Rigidbody2D rb;
+    public Animator anim;
+    public SpriteRenderer spriteRenderer;
 
     public GroundChecker groundChecker;
     public PlayerHealth health;
+
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         health = GetComponent<PlayerHealth>();
+        anim = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void Update()
@@ -23,6 +28,23 @@ public class PlayerController : MonoBehaviour
         if (health.isDead) return;
 
         float moveInput = Input.GetAxis("Horizontal");
+
+        if(moveInput >= 0)
+        {
+            spriteRenderer.flipX = false;
+        }else if (moveInput < 0)
+        {
+            spriteRenderer.flipX = true;
+        }
+
+        if (moveInput != 0)
+        {
+            anim.SetBool("IsRun", true);
+        }
+        else
+        {
+            anim.SetBool("IsRun", false);
+        }
         //Debug.Log($"Input value: {moveInput}");
         if (Input.GetKey(KeyCode.LeftShift))
         {
