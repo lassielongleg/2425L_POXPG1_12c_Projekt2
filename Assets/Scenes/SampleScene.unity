@@ -962,6 +962,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isGrounded: 0
+  anim: {fileID: 2124460224}
 --- !u!1 &1309972526
 GameObject:
   m_ObjectHideFlags: 0

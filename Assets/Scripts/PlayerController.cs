@@ -59,6 +59,7 @@ public class PlayerController : MonoBehaviour
         {
             //rb.AddForce(new Vector2(0,jumpForce));
             rb.AddForce(Vector2.up * jumpForce);
+            anim.SetBool("IsJump", true);
         }
     }
 
