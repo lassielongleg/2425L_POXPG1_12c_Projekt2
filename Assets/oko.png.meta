@@ -1,0 +1,906 @@
+fileFormatVersion: 2
+guid: 945ad4d65251cbd4c97d70039935b6ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oko_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6b030d85ccb8b4f9b0e60e8cd5f9ac
+      internalID: 1737609500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 833.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b409c7aee6a35b4b9f8b95b4bb24386
+      internalID: -825394757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 833.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5a3abff3b6d1f4bbd854fee51e20ba
+      internalID: 781896881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 833.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899e839232f62b49ab20516ec3a2027
+      internalID: -1988216676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 833.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2adc38c2cd479439007d67a9282138
+      internalID: 1963784510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 833.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d3f1b8778b9b244a055b34bf576cd8
+      internalID: 795871587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3997c5382ef82f54098e5519469894eb
+      internalID: -1495535127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 667.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac3f10cc8b7a194cb12ebdd80c80c17
+      internalID: -962390178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 667.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e066f2a30b79dc498ad31539ddfdfe7
+      internalID: -1062583953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_9
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 667.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8787dc9c26fc4249a0672398c8d0ce9
+      internalID: 135470157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 667.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e716e1331987d4d8afe15d7b14b625
+      internalID: -1395983679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_11
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 667.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618cbc0596413074ea78aa10cda386fa
+      internalID: -1775475523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f43a460173d28043a898debd55d1a36
+      internalID: -832144102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 501.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae517a6e14e8f14387c17e30912a4e9
+      internalID: 221595527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 501.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7ccab4acd07a74295749480fff208a
+      internalID: -988576439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 501.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3905fa70bacae9a47b189d59fbe8d82c
+      internalID: 771196768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_16
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 501.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b22ff99ddd553458dd21b1ff1c6a43
+      internalID: 1833852992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_17
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 501.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59517a72780dfa1429d243da6cd34bce
+      internalID: -173246886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26302939c6c345498972d7d807a0114
+      internalID: -1339652569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 335.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8278ac517df4640408d7713fe3eb2705
+      internalID: 421198985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_20
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 335.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570ae8b150fae6c46bf51947c8912ccf
+      internalID: 526313638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 335.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cde9013420cae14b8c8f55d55987425
+      internalID: -383299827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_22
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 335.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d5793d33351b346943c6004abdd2be
+      internalID: -388313424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_23
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 335.3333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4652aecf59d74f348ac4447b03d8ab7f
+      internalID: 1584122321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169.33333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3080e68cd9e53242825d594bfdfee6d
+      internalID: -1060102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 169.33333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb08850a73cb1b2408bb7297c847ad39
+      internalID: -1475878744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 169.33333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6254f950bb7964683d439afe45e72b
+      internalID: -710133757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 169.33333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1837af53f4bc134099b5b217da59a8e
+      internalID: 93646906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_28
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 169.33333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a105d66ff74774a8487d9d2aa60b81
+      internalID: 204301702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_29
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 169.33333
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04fe29c6ea971d47b8b29270ff2309f
+      internalID: -737309897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.3333282
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15153efc7a3086847b77b2020ddc21b1
+      internalID: 202411473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3.3333282
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47befaaef65ca44eaaf1b8ad4a045e6
+      internalID: 1170724876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3.3333282
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c3625cf91276f4797081fd42459fd0
+      internalID: -1431160739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_33
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3.3333282
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741de3b8a1b6e3c49881da4e8735d84e
+      internalID: 1506342988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_34
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3.3333282
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29e79bbaa0936349bdfdfb60e34d3f6
+      internalID: -1141334117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oko_35
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 3.3333282
+        width: 166.66667
+        height: 166.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f091f2400da654a9be7aca0372bdad
+      internalID: 730518896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      oko_0: 1737609500
+      oko_1: -825394757
+      oko_10: -1395983679
+      oko_11: -1775475523
+      oko_12: -832144102
+      oko_13: 221595527
+      oko_14: -988576439
+      oko_15: 771196768
+      oko_16: 1833852992
+      oko_17: -173246886
+      oko_18: -1339652569
+      oko_19: 421198985
+      oko_2: 781896881
+      oko_20: 526313638
+      oko_21: -383299827
+      oko_22: -388313424
+      oko_23: 1584122321
+      oko_24: -1060102
+      oko_25: -1475878744
+      oko_26: -710133757
+      oko_27: 93646906
+      oko_28: 204301702
+      oko_29: -737309897
+      oko_3: -1988216676
+      oko_30: 202411473
+      oko_31: 1170724876
+      oko_32: -1431160739
+      oko_33: 1506342988
+      oko_34: -1141334117
+      oko_35: 730518896
+      oko_4: 1963784510
+      oko_5: 795871587
+      oko_6: -1495535127
+      oko_7: -962390178
+      oko_8: -1062583953
+      oko_9: 135470157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
