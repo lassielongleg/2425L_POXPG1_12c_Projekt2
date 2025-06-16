@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
@@ -7,10 +8,12 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] private float maxHealth = 100;
     [SerializeField] private float health = 100;
     public Animator anim;
+    public TextMeshProUGUI zycie;
 
     private void Start()
     {
         anim = GetComponent<Animator>();
+        zycie.text = health.ToString();
     }
 
     public bool isDead = false;
@@ -31,6 +34,7 @@ public class PlayerHealth : MonoBehaviour
             isDead = true;
             anim.SetTrigger("IsDead");
         }
+        zycie.text = health.ToString();
     }
 
 }

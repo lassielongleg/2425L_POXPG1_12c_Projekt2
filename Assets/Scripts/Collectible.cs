@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices.WindowsRuntime;
 using UnityEngine;
 
 public class Collectible : MonoBehaviour
@@ -13,6 +14,10 @@ public class Collectible : MonoBehaviour
         //TODO send info to player
         Inventory playerInventory = null;
         playerInventory = collision.gameObject.GetComponent<Inventory>();
+
+        if (playerInventory == null) return;
+
+        playerInventory.Collect();
 
         //playerInventory.
 
